@@ -1,0 +1,2 @@
+
+    inputtest = [l2]
